@@ -1,3 +1,6 @@
+//comment 1
+//comment 2
+
 import java.util.Scanner;
 public class lab2 {
 
